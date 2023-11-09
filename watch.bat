@@ -1,0 +1,1 @@
+@sass --watch .\rsrc\style.scss .\rsrc\style.css
